@@ -1,10 +1,17 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
 .container{
     background-color: palevioletred;
+    height: 607px;
 }
 .text-center{
     color: black;
 }
 .text-muted{
     font-size: larger;
-    
+    display: flex;
+    justify-content: center;
 }
+
